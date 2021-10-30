@@ -35,6 +35,11 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+solutions/
+final/
+README.md
+LICENSE
+cover.png
 
 # TypeScript v1 declaration files
 typings/
