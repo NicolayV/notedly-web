@@ -1,21 +1,21 @@
-# notedly-web
+# Notedly-web
 gql-client
-# проект Fullstack Apollo(GraphQL)
+# Проект Fullstack Apollo(GraphQL)
 # Описание:
 Приложение для заметок Notedly его пользователи могут создать аккаунт, писать заметки редактировать их, просматривать ленту и «избранные» заметки других пользователей.
 # Технологии на проекте:
-Node.js
-Express 
-Apollo Server 
-GraphQL Playground 
-MongoDB Atlas
-Mongoose 
-JSON Web Token 
-Express Helmet 
-Heroku 
-Apollo Client 
-useQuery 
-Netlify 
+Node.js,
+Express, 
+Apollo Server,
+GraphQL Playground,
+MongoDB Atlas,
+Mongoose,
+JSON Web Token, 
+Express Helmet, 
+Heroku, 
+Apollo Client, 
+useQuery, 
+Netlify, 
 
 Разработка приложения производилась в соответствии с учебным пособием
 «Разработка на JavaScript. Построение кроссплатформенных приложений с помощью GraphQL, React, React Native и Electron» 
